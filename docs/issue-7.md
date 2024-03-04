@@ -8,7 +8,7 @@
 
 ### [React 将被编译](https://reacttraining.com/blog/react-19-will-be-compiled)
 
-将 React 编译成更搞笑的代码，减少手动优化。
+将 React 编译成更高效的代码，减少手动优化。
 
 ### [Deno 团队开发的一个新 JavaScript 包注册表 JSR](https://jsr.io)
 
