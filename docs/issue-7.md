@@ -2,13 +2,17 @@
 
 ## 最前沿
 
-### `Volar Language Features (Volar)` 更名为 `Vue - Official`，并废弃了 `TypeScript Vue Plugin` 扩展
+### Volar Language Features (Volar) 更名为 Vue - Official，并废弃了 TypeScript Vue Plugin 扩展
 
-[Vue Language Tools](https://github.com/vuejs/language-tools) 在 3.2 日发布 [v2.0](https://github.com/vuejs/language-tools/releases/tag/v2.0.0)。VS Code 中的 `Volar` 插件已经更名为 `Vue - Official`。此次更新 [Takeover Mode](https://vuejs.org/guide/typescript/overview.html#volar-takeover-mode) 被弃用，之前在工作区禁用 VS Code 内置 TS 插件 `TypeScript and JavaScript Language Features` 的用户将收到 "Takeover mode is no longer needed in version 2.0. Please enable the "TypeScript and JavaScript Language Features" extension." 的警告。
+[Vue Language Tools](https://github.com/vuejs/language-tools) 在 3.2 日发布 [v2.0](https://github.com/vuejs/language-tools/releases/tag/v2.0.0)。VS Code 中的 Volar 插件已经更名为 Vue - Official。此次更新 [Takeover Mode](https://vuejs.org/guide/typescript/overview.html#volar-takeover-mode) 被弃用，之前在工作区禁用 VS Code 内置 TS 插件 TypeScript and JavaScript Language Features 的用户将收到 "Takeover mode is no longer needed in version 2.0. Please enable the "TypeScript and JavaScript Language Features" extension." 的警告。
 
 ### [React 将被编译](https://reacttraining.com/blog/react-19-will-be-compiled)
 
+将 React 编译成更搞笑的代码，减少手动优化。
+
 ### [Deno 团队开发的一个新 JavaScript 包注册表 JSR](https://jsr.io)
+
+JSR 支持 TypeScript 优先的开发，无需转译，可以直接部署。并且提供了集成的工作空间和无缝的 NPM 集成。
 
 [JSR：目前我们对 Deno 新 JavaScript 包注册表的了解](https://socket.dev/blog/jsr-new-javascript-package-registry)
 
@@ -27,6 +31,11 @@ GitHub 联合创始人 Scott Chacon 在 FOSDEM 2024 上发表了热情洋溢的�
 一篇文章总结 2023 年以来 Node.js 领域取得的成就。
 
 ### [React 实验室：我们一直在做什么 – 2024 年 2 月](https://react.dev/blog/2024/02/15/react-labs-what-we-have-been-working-on-february-2024)
+
+- React Compiler 已经在 instagram.com 上投入生产
+- React Actions 管理从客户端到服务器的数据传输的功能，可以在 DOM 元素（如 <form/>）中使用 action 属性来执行数据操作
+- React Canary 已经为发布 React 19 做好了准备
+- Activity 在研究将应用程序的某些部分标记为“活动”或“非活动”的行为
 
 ### [WebAIM 第十次屏幕阅读器用户调查结果现已公布](https://webaim.org/projects/screenreadersurvey10/)
 

@@ -2,9 +2,7 @@
 
 没有意外的话，通常在每周五早上发布。
 
-[GitHub Pages 浏览]()
-
-[RSS 订阅]()
+[GitHub Pages 浏览](https://echotechfe.github.io/weekly)
 
 ## 周刊格式
 
