@@ -12,6 +12,7 @@
 
 ### 三月
 
+- [#8 - 2024.3.11](/docs/issue-8.md)
 - [#7 - 2024.3.4](/docs/issue-7.md)
 
 ## 站在巨人的肩膀上
@@ -23,6 +24,7 @@
 - [Frontend Focus](https://frontendfoc.us/)
 - [FreeCodeCamp News](https://www.freecodecamp.org/news)
 - [阮一峰的网络日志](https://www.ruanyifeng.com/blog)
+- [Weekly Vue & Nuxt News](https://weekly-vue.news)
 
 以下为微信公众号
 
