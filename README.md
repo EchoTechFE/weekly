@@ -1,17 +1,14 @@
 # 回响科技前端周刊
 
-没有意外的话，通常在每周五早上发布。
+没有意外的话，通常在每周五发布。
 
 [GitHub Pages 浏览](https://echotechfe.github.io/weekly)
-
-## 周刊格式
-
-[v1.0 模板](/templates/v1.0.md)
 
 ## 2024
 
 ### 三月
 
+- [#9 - 2024.3.15](/docs/issue-9.md)
 - [#8 - 2024.3.11](/docs/issue-8.md)
 - [#7 - 2024.3.4](/docs/issue-7.md)
 
@@ -30,3 +27,11 @@
 
 - 奇舞精选
 - 前端早读课
+
+## 周刊格式
+
+[v1.1 模板 #9](/templates/v1.1.md)
+
+### 历史
+
+[v1.0 模板 #7](/templates/v1.0.md)
