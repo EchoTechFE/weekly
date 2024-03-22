@@ -44,5 +44,5 @@ Weekly
 
 ### 历史
 
-[v1.1 模板 #9](/templates/v1.1.md)
-[v1.0 模板 #7](/templates/v1.0.md)
+- [v1.1 模板 #9](/templates/v1.1.md)
+- [v1.0 模板 #7](/templates/v1.0.md)
