@@ -14,7 +14,7 @@ Node.js 即将实验性的支持 require 加载不包含顶层 await 的 ESM 代
 
 - 与请求关联的服务器日志将被传递到客户端，并显示在浏览器控制台，方便调试应用程序。
 - 使用 .client.vue 或 .server.vue 指定仅服务端或仅客户端渲染的页面
-- public/ 目录或图层目录中的公共资产现在完全由 Nuxt 解
+- public/ 目录或 layer 目录中的公共资产现在完全由 Nuxt 解析
 - useAsyncData 和 useFetch 提供 clear 函数
 
 其它
@@ -31,8 +31,6 @@ Node.js 即将实验性的支持 require 加载不包含顶层 await 的 ESM 代
 - Type fixes
 - Upgrading
 - Full release notes
-
-###
 
 ### [Nodejs 新的官网上线啦](https://nodejs.org/en)
 
