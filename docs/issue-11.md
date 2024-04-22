@@ -15,7 +15,7 @@
 - 更新了 eslint:recommended
 - 对一些现有规则的更新
 
-另外找到一篇 ESLint 在 2022.08 发布的关于 flat config 的介绍，[ESLint's new config system, Part 2: Introduction to flat config](https://eslint.org/blog/2022/08/new-config-system-part-2/)。
+另外找到一篇 ESLint 在 2022.08 发布的关于 flat config 的介绍，[ESLint's new config system, Part 2: Introduction to flat config](https://eslint.org/blog/2022/08/new-config-system-part-2)。
 
 ### [Nuxt 更新了与 ESLint 集成](https://nuxt.com/blog/eslint-module)
 
@@ -23,7 +23,7 @@ Nuxt 改进了与 ESLint 集成，以通过新的平面配置支持 ESLint v9，
 
 ### [TC 39 Signal 提案](https://eisenbergeffect.medium.com/a-tc39-proposal-for-signals-f0bedd37a335)
 
-Signal 的 v0 草案以及符合规范的 polyfill 已公开发布。Signal 是一种数据类型，通过模拟状态单元和从其他状态或计算中派生的计算来实现单向数据流。状态和计算形成一个无环图，其中每个节点都有从其值中派生状态的其他节点（汇点）和/或为其值贡献状态的节点（源点）。节点也可以被跟踪为“干净”或“脏的”，信号的算法是“推然后拉”模型。脏标志会被急切地更新（Push），而计算会被延迟评估（Pull）。
+Signal 的 v0 草案以及符合规范的 polyfill 已公开发布。Signal 是一种数据类型，通过模拟状态单元和从其他状态或计算中派生的计算来实现单向数据流。状态和计算形成一个无环图，其中每个节点都有从其值中派生状态的其他节点（汇点）和/或为其值贡献状态的节点（源点）。节点也可以被跟踪为“干净”或“脏的”，信号的算法是“push then pull”模型，脏标志会被急切地更新（Push），而计算会被延迟评估（Pull）。
 
 感觉改方案如果落地，也许会推动各种前端框架中数据流和状态管理统一。
 
@@ -32,7 +32,7 @@ Signal 的 v0 草案以及符合规范的 polyfill 已公开发布。Signal 是�
 在 2023 年，Nuxt 团队实现了大部分设定的目标，发布了从 v3.1 到 v3.9 的 9 个小版本更新，直至 23 年 10 月底，Nuxt 3 的下载量超越了 Nuxt 2。
 预计在 2024 年 6 月 14 日或之前发布 Nuxt v4，在这之前 Nuxt 将在次要版本中尽可能发布 v4 的部分功能。
 
-### [Node.js 性能 API 简介](https://betterstack.com/community/guides/scaling-nodejs/performance-apis/)
+### [Node.js 性能 API 简介](https://betterstack.com/community/guides/scaling-nodejs/performance-apis)
 
 探索 Node.js [pref_hooks](https://nodejs.org/api/perf_hooks.html) 模块中性能测量的 API，并通过一些代码片段了解如何使用它们来记录各种性能指标。
 
